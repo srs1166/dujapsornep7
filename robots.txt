@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://srs1166.github.io/dujapsornep7/sitemap.xml
